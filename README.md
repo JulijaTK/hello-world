@@ -1,2 +1,5 @@
 # hello-world
-test 1 
+
+Hi Humans!!!
+
+Julija here, I like to travel, read and do sports 
